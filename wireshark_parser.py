@@ -10,7 +10,7 @@ import warnings
 import pyjq as jq
 
 ID_VENDOR = 0x04f3
-ID_PRODUCT = 0x0c4f
+ID_PRODUCT = 0x0c4f ,  0x0c4c
 
 
 class Colors:
